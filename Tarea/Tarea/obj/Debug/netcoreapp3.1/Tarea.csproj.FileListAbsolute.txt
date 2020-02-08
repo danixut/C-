@@ -1,0 +1,11 @@
+C:\Users\drago\source\repos\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.exe
+C:\Users\drago\source\repos\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.deps.json
+C:\Users\drago\source\repos\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.runtimeconfig.json
+C:\Users\drago\source\repos\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.runtimeconfig.dev.json
+C:\Users\drago\source\repos\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.dll
+C:\Users\drago\source\repos\Tarea\Tarea\bin\Debug\netcoreapp3.1\Tarea.pdb
+C:\Users\drago\source\repos\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.AssemblyInfo.cs
+C:\Users\drago\source\repos\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.dll
+C:\Users\drago\source\repos\Tarea\Tarea\obj\Debug\netcoreapp3.1\Tarea.pdb

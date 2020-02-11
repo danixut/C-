@@ -1,0 +1,10 @@
+C:\Users\drago\Documents\Curso\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Serie.15.exe
+C:\Users\drago\Documents\Curso\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Serie.15.deps.json
+C:\Users\drago\Documents\Curso\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Serie.15.runtimeconfig.json
+C:\Users\drago\Documents\Curso\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Serie.15.runtimeconfig.dev.json
+C:\Users\drago\Documents\Curso\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Serie.15.dll
+C:\Users\drago\Documents\Curso\C#\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Serie.15.pdb
+C:\Users\drago\Documents\Curso\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Serie.15.AssemblyInfoInputs.cache
+C:\Users\drago\Documents\Curso\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Serie.15.AssemblyInfo.cs
+C:\Users\drago\Documents\Curso\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Serie.15.dll
+C:\Users\drago\Documents\Curso\C#\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Serie.15.pdb

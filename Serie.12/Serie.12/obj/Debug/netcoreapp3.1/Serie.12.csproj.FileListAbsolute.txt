@@ -1,0 +1,11 @@
+C:\Users\drago\source\repos\Serie.12\Serie.12\bin\Debug\netcoreapp3.1\Serie.12.exe
+C:\Users\drago\source\repos\Serie.12\Serie.12\bin\Debug\netcoreapp3.1\Serie.12.deps.json
+C:\Users\drago\source\repos\Serie.12\Serie.12\bin\Debug\netcoreapp3.1\Serie.12.runtimeconfig.json
+C:\Users\drago\source\repos\Serie.12\Serie.12\bin\Debug\netcoreapp3.1\Serie.12.runtimeconfig.dev.json
+C:\Users\drago\source\repos\Serie.12\Serie.12\bin\Debug\netcoreapp3.1\Serie.12.dll
+C:\Users\drago\source\repos\Serie.12\Serie.12\bin\Debug\netcoreapp3.1\Serie.12.pdb
+C:\Users\drago\source\repos\Serie.12\Serie.12\obj\Debug\netcoreapp3.1\Serie.12.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\Serie.12\Serie.12\obj\Debug\netcoreapp3.1\Serie.12.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\Serie.12\Serie.12\obj\Debug\netcoreapp3.1\Serie.12.AssemblyInfo.cs
+C:\Users\drago\source\repos\Serie.12\Serie.12\obj\Debug\netcoreapp3.1\Serie.12.dll
+C:\Users\drago\source\repos\Serie.12\Serie.12\obj\Debug\netcoreapp3.1\Serie.12.pdb

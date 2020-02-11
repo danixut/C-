@@ -1,0 +1,22 @@
+D:\AlanHDD\Apuntes\10mo\PBSI\MOD2\Curso 5 - C#\PBSI_POO\Tareas\Serie\Ejercicio9\Ejercicio9\obj\Debug\netcoreapp3.1\Ejercicio9.csprojAssemblyReference.cache
+D:\AlanHDD\Apuntes\10mo\PBSI\MOD2\Curso 5 - C#\PBSI_POO\Tareas\Serie\Ejercicio9\Ejercicio9\obj\Debug\netcoreapp3.1\Ejercicio9.AssemblyInfoInputs.cache
+D:\AlanHDD\Apuntes\10mo\PBSI\MOD2\Curso 5 - C#\PBSI_POO\Tareas\Serie\Ejercicio9\Ejercicio9\obj\Debug\netcoreapp3.1\Ejercicio9.AssemblyInfo.cs
+D:\AlanHDD\Apuntes\10mo\PBSI\MOD2\Curso 5 - C#\PBSI_POO\Tareas\Serie\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.exe
+D:\AlanHDD\Apuntes\10mo\PBSI\MOD2\Curso 5 - C#\PBSI_POO\Tareas\Serie\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.deps.json
+D:\AlanHDD\Apuntes\10mo\PBSI\MOD2\Curso 5 - C#\PBSI_POO\Tareas\Serie\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.runtimeconfig.json
+D:\AlanHDD\Apuntes\10mo\PBSI\MOD2\Curso 5 - C#\PBSI_POO\Tareas\Serie\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.runtimeconfig.dev.json
+D:\AlanHDD\Apuntes\10mo\PBSI\MOD2\Curso 5 - C#\PBSI_POO\Tareas\Serie\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.dll
+D:\AlanHDD\Apuntes\10mo\PBSI\MOD2\Curso 5 - C#\PBSI_POO\Tareas\Serie\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.pdb
+D:\AlanHDD\Apuntes\10mo\PBSI\MOD2\Curso 5 - C#\PBSI_POO\Tareas\Serie\Ejercicio9\Ejercicio9\obj\Debug\netcoreapp3.1\Ejercicio9.dll
+D:\AlanHDD\Apuntes\10mo\PBSI\MOD2\Curso 5 - C#\PBSI_POO\Tareas\Serie\Ejercicio9\Ejercicio9\obj\Debug\netcoreapp3.1\Ejercicio9.pdb
+C:\Users\drago\Documents\Curso\C#\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.exe
+C:\Users\drago\Documents\Curso\C#\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.deps.json
+C:\Users\drago\Documents\Curso\C#\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.runtimeconfig.json
+C:\Users\drago\Documents\Curso\C#\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.runtimeconfig.dev.json
+C:\Users\drago\Documents\Curso\C#\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.dll
+C:\Users\drago\Documents\Curso\C#\Ejercicio9\Ejercicio9\bin\Debug\netcoreapp3.1\Ejercicio9.pdb
+C:\Users\drago\Documents\Curso\C#\Ejercicio9\Ejercicio9\obj\Debug\netcoreapp3.1\Ejercicio9.csprojAssemblyReference.cache
+C:\Users\drago\Documents\Curso\C#\Ejercicio9\Ejercicio9\obj\Debug\netcoreapp3.1\Ejercicio9.AssemblyInfoInputs.cache
+C:\Users\drago\Documents\Curso\C#\Ejercicio9\Ejercicio9\obj\Debug\netcoreapp3.1\Ejercicio9.AssemblyInfo.cs
+C:\Users\drago\Documents\Curso\C#\Ejercicio9\Ejercicio9\obj\Debug\netcoreapp3.1\Ejercicio9.dll
+C:\Users\drago\Documents\Curso\C#\Ejercicio9\Ejercicio9\obj\Debug\netcoreapp3.1\Ejercicio9.pdb

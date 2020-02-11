@@ -1,0 +1,11 @@
+C:\Users\drago\source\repos\Serie.18\Serie.18\obj\Debug\netcoreapp3.1\Serie.18.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\Serie.18\Serie.18\obj\Debug\netcoreapp3.1\Serie.18.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\Serie.18\Serie.18\obj\Debug\netcoreapp3.1\Serie.18.AssemblyInfo.cs
+C:\Users\drago\source\repos\Serie.18\Serie.18\bin\Debug\netcoreapp3.1\Serie.18.exe
+C:\Users\drago\source\repos\Serie.18\Serie.18\bin\Debug\netcoreapp3.1\Serie.18.deps.json
+C:\Users\drago\source\repos\Serie.18\Serie.18\bin\Debug\netcoreapp3.1\Serie.18.runtimeconfig.json
+C:\Users\drago\source\repos\Serie.18\Serie.18\bin\Debug\netcoreapp3.1\Serie.18.runtimeconfig.dev.json
+C:\Users\drago\source\repos\Serie.18\Serie.18\bin\Debug\netcoreapp3.1\Serie.18.dll
+C:\Users\drago\source\repos\Serie.18\Serie.18\bin\Debug\netcoreapp3.1\Serie.18.pdb
+C:\Users\drago\source\repos\Serie.18\Serie.18\obj\Debug\netcoreapp3.1\Serie.18.dll
+C:\Users\drago\source\repos\Serie.18\Serie.18\obj\Debug\netcoreapp3.1\Serie.18.pdb

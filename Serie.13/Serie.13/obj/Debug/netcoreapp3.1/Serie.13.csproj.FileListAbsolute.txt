@@ -1,0 +1,11 @@
+C:\Users\drago\Documents\Curso\C#\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\Serie.13.exe
+C:\Users\drago\Documents\Curso\C#\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\Serie.13.deps.json
+C:\Users\drago\Documents\Curso\C#\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\Serie.13.runtimeconfig.json
+C:\Users\drago\Documents\Curso\C#\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\Serie.13.runtimeconfig.dev.json
+C:\Users\drago\Documents\Curso\C#\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\Serie.13.dll
+C:\Users\drago\Documents\Curso\C#\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\Serie.13.pdb
+C:\Users\drago\Documents\Curso\C#\claseCarro\claseCarro\obj\Debug\netcoreapp3.1\Serie.13.csprojAssemblyReference.cache
+C:\Users\drago\Documents\Curso\C#\claseCarro\claseCarro\obj\Debug\netcoreapp3.1\Serie.13.AssemblyInfoInputs.cache
+C:\Users\drago\Documents\Curso\C#\claseCarro\claseCarro\obj\Debug\netcoreapp3.1\Serie.13.AssemblyInfo.cs
+C:\Users\drago\Documents\Curso\C#\claseCarro\claseCarro\obj\Debug\netcoreapp3.1\Serie.13.dll
+C:\Users\drago\Documents\Curso\C#\claseCarro\claseCarro\obj\Debug\netcoreapp3.1\Serie.13.pdb

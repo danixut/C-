@@ -1,0 +1,11 @@
+C:\Users\drago\source\repos\CMD\CMD\bin\Debug\netcoreapp3.1\CMD.exe
+C:\Users\drago\source\repos\CMD\CMD\bin\Debug\netcoreapp3.1\CMD.deps.json
+C:\Users\drago\source\repos\CMD\CMD\bin\Debug\netcoreapp3.1\CMD.runtimeconfig.json
+C:\Users\drago\source\repos\CMD\CMD\bin\Debug\netcoreapp3.1\CMD.runtimeconfig.dev.json
+C:\Users\drago\source\repos\CMD\CMD\bin\Debug\netcoreapp3.1\CMD.dll
+C:\Users\drago\source\repos\CMD\CMD\bin\Debug\netcoreapp3.1\CMD.pdb
+C:\Users\drago\source\repos\CMD\CMD\obj\Debug\netcoreapp3.1\CMD.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\CMD\CMD\obj\Debug\netcoreapp3.1\CMD.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\CMD\CMD\obj\Debug\netcoreapp3.1\CMD.AssemblyInfo.cs
+C:\Users\drago\source\repos\CMD\CMD\obj\Debug\netcoreapp3.1\CMD.dll
+C:\Users\drago\source\repos\CMD\CMD\obj\Debug\netcoreapp3.1\CMD.pdb
